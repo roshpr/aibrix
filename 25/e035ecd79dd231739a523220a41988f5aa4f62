@@ -1,0 +1,26 @@
+config/webhook/manifests.yaml
+  h_0e75a6a18c372c 213-231
+dist/chart/templates/webhook/webhooks.yaml
+  h_0e75a6a18c372c 205-223
+docs/source/designs/aibrix-stormservice.rst
+  h_0e75a6a18c372c 42,547
+pkg/webhook/stormservice_webhook.go
+  h_0e75a6a18c372c 21,23,27,33,37,46-47,50,53-102,334-335
+pkg/webhook/stormservice_webhook_test.go
+  h_0e75a6a18c372c 21-22,27-28,30-31,34-35,152-242
+test/integration/webhook/stormservice_webhook_test.go
+  h_0e75a6a18c372c 26,31,446-485,507-517
+test/integration/webhook/suit_test.go
+  h_0e75a6a18c372c 36,111-112
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "25e035ecd79dd231739a523220a41988f5aa4f62",
+  "prompts": {},
+  "humans": {
+    "h_0e75a6a18c372c": {
+      "author": "Rosh Ramadass <roshpr@gmail.com>"
+    }
+  }
+}
